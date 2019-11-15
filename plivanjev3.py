@@ -56,6 +56,8 @@ for i in range(3):
     print(i+1, ". ", finaleB3.index[i])
 print()
 
+##
+
 
 
 
